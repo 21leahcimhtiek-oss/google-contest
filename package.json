@@ -30,5 +30,6 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.3",
     "@types/express": "^4.17.21"
-  }
+  },
+  "description": "21leahcimhtiek-oss/google-contest: Aurora-aligned project with no-key-first local workflow guidance."
 }
